@@ -1,0 +1,13 @@
+pytz==2025.2
+types-pytz==2025.2.0.20250516
+python-dateutil==2.9.0
+types-python-dateutil==2.9.0.20250708
+python-dotenv==1.1.1
+requests==2.32.4
+types-requests==2.32.4.20250611
+beautifulsoup4==4.13.4
+selenium==4.34.2
+notebook==7.4.4
+pypdf==5.9.0
+openpyxl==3.1.5
+pillow==11.3.0
