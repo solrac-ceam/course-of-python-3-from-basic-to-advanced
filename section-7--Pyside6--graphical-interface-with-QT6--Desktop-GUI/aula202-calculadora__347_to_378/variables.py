@@ -1,0 +1,17 @@
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).parent
+FILES_DIR = ROOT_DIR / "files"
+WINDOW_ICON_PATH = FILES_DIR / "icons8-calculator-48.png"
+
+# Colors
+PRIMARY_COLOR = "#1E81B0"
+DARKER_PRIMARY_COLOR = "#16658A"
+DARKEST_PRIMARY_COLOR = "#115270"
+
+# Sising
+BIG_FONT_SIZE = 40
+MEDIUM_FONT_SIZE = 24
+SMALL_FONT_SIZE = 18
+TEXT_MARGIN = 10
+MINIMUN_WIDTH = 500
