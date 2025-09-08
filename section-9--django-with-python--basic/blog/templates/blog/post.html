@@ -1,0 +1,8 @@
+{% extends "base/generic.html" %}
+
+{% block head_title %}Blog{% endblock head_title %}
+{% block title %}{{ text }}{% endblock title %}
+
+{% block content %}
+    {% include "base/partial/post-block.html" %}
+{% endblock content %}
