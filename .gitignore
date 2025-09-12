@@ -270,3 +270,6 @@ $RECYCLE.BIN/
 
 ## Custom ignores
 mysql_206/
+collected_static/
+media/
+agenda/local_settings.pý
